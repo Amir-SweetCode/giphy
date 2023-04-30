@@ -1,0 +1,17 @@
+
+.title {
+   font-weight: 700;
+   margin: 10px 0px 0px 15px;
+   color: #7431f9;
+}
+
+#searchForm {
+   display: flex;
+   padding: 15px;
+   gap: 10px;
+}
+
+#gifContainer {
+   display: flex;
+   justify-content: center;
+}
